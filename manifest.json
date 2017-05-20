@@ -1,0 +1,12 @@
+{
+  "name": "Tab storing",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Your opening tabs export text and import text to open tabs.",
+  "icons": {},
+  "chrome_url_overrides": {},
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabs"]
+}
